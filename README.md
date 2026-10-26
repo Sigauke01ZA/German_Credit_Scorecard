@@ -1,8 +1,6 @@
 # German_Credit_Scorecard
 Traditional retail credit scorecard using WoE/IV variable selection, Logistic Regression, and PDO scaling (300-850).
 
-# German Credit Scorecard
-
 An end-to-end classical MRM (Model Risk Management) pipeline for building an **Application Credit Scorecard**. This project demonstrates the full model development lifecycle: data auditing, Weight of Evidence (WoE) transformation, Logistic Regression, PDO scaling (300–850), and SR 11-7 validation.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
